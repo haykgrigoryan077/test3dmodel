@@ -1,0 +1,17 @@
+body::-webkit-scrollbar {
+  display: none;
+}
+
+.ringCanvas {
+  height: 980px;
+}
+
+#divik {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+}
+
+.App {
+  background-color: black;
+}
